@@ -1,0 +1,71 @@
+No.,QnNo,Group,CommentText,Commenter
+1,9,Group 9 - Analysis_of_Vehicle_Emissions,"Overall good job with your analysis. Please see my feedback below:
+1. The research questions could be more specific and testable; meaning that it should be possible to design an empirical study to collect data and answer the question. E.g.""What is the impact of imported vehicles on fuel efficiency and emissions in Kenya, and how does it compare to locally manufactured vehicles?"" and """"What are the most frequently purchased vehicle models and brands in Kenya and what factors influence consumers' purchasing decisions?"" Having a good research question is crucial for the success of any research project, as it provides a roadmap for the study and helps to ensure that the findings are meaningful and useful.
+2. Some of the takeaways from the visualizations were not clear. A good practice when presenting is to include a caption above or below the visualization with a 1 sentence takeaway.
+3. Some of your charts are too colorful, which can distract the audience. Sometimes we use color as ""eye candy"", but we should focus on using it to draw attention to some aspect of the visualization. Otherwise our brain tries to draw meaning from all the colors and where there isn't, it can confuse the audience, even it may look ""nice"", the cost in the form of confusion to the brain is not worth it.
+4. In the PCA discussion, I would discuss how each of the variables loaded to the PCs and what % of the variance each PC explained. 
+5. Your plot of the Kmeans groups by PC1/PC2 does clearly show there are 4 clusters.
+6. In compiling your recommendations, I recommend you more clearly reference your analysis to support your recommendations.
+
+Below are a few tips on creating effective data visualizations:
+a. Choose the right type of visualization: There are many types of data visualizations, each with its own strengths and weaknesses. It's important to choose the right type of visualization for the data you want to present and the message you want to convey.
+b. Keep it simple: Avoid cluttering the visualization with too much information. Stick to the most important data and use colors, labels, and annotations sparingly.
+c. Use clear labeling and annotations: Make sure the axes, labels, and annotations are clear and easy to read. Use a font that is large enough to be easily legible.
+d. Highlight patterns and trends: Use visual elements like colors, shapes, and lines to highlight patterns and trends in the data. This can help to make the data more interpretable and easy to understand.
+f. Test and iterate: Always test your visualization with a sample of the target audience to ensure that it effectively communicates the intended message. If necessary, iterate and make improvements based on feedback.",1
+2,6,Group 6 - Predicting_Diabetes_in_Pregnant_Women,"The data set was limited to one site due to limited availability, but the presentation was clear. As a learning model, it will likely become more effective in predicting outcomes as more data becomes available. Great job",2
+3,2,Group 2 - Determining_Planting_Calendar_in_India,"Good overall presentation! When developing research questions, they should be formulated on basis of the problem statement. Questions are majorly formulated on a concept of dependent vs independent variable. 
+
+Secondly, it's a good academic practice to cite, reference and cross reference any knowledge you use in your research. This goes a long way in allowing others to fact check any points of concern and where possible add or subtract from the findings. 
+
+Finally, charts are a great way to share statistical evidence and also to explain abstract constructs of any research question. However, with limited or no labeling at all, it becomes another recipe for confusion of concepts. In future, endeavor to label graphs with proper keys, headings, metrics and most importantly, again, if borrowed, with proper citations.",3
+4,4,Group 4 - Predicting_Poor_Performance_in_High_School,"In future, you may want to limit how much you read word for word from your presentation. It takes away from the perception that you had enough time to prepare and present. It also breaks the confidence of your listeners and overall allows no room for engagement with your audience. 
+
+I would recommend making proper citations in reference to the data and or research relied on to develop your own model. Other than mentioning it, you may want to add it to the presentation in a proper accepted academic referencing style.",4
+5,2,Group 2 - Determining_Planting_Calendar_in_India,"I think the problem was too shallowly studied and understood from the onset, but the presentation was good and the graphic presentation was nice.
+
+A bit overly broad of an application with too little data points. I would want to study the subject data significantly more and control many more variables before making a model with any conclusions.",4
+6,6,Group 6 - Predicting_Diabetes_in_Pregnant_Women,"I really enjoyed the presentation, the work to pull in multiple data points and the awareness that the model is a work in progress. The presentation and content was well done from start to finish. 
+
+The presentation had me ideating about a suite of tools along this line of thought that would share probabilities of complications based on characteristics of your health.
+
+I know many health care professionals and software suites have this, but such an easy to self evaluate form is very cool.",3
+7,4,Group 4 - Predicting_Poor_Performance_in_High_School,"I really felt like the study of the underlying data before venturing into the modeling was key to the success of this presentation. Just exploring with curiosity some zoomed out, casual observations of the dataset was a great approach. 
+
+Some surprising conclusions from the model but the presenters recommendations didnÕt seem to align with the model, which was curious",2
+8,1,Group 1 Time_Series_Analysis_of_Global_Temperature,"Beginning - Liked how you introduced Time Series Analysis and grounded the audience in your research topic. Framework slide - you can skip this slide or spend a few moments introducing each topic as your agenda for the presentation. Consider reducing the words on your first few slides. If you're not going to speak to it, remove it from the slide. That enables the audience to focus more on what you are saying. Your presenter was very clear and informative, and I want the audience to be able to focus on the presenter's words. Analysis - Effectively walked the audience through how you cleaned and constructed the data. Slide with the world maps side-by-side was effective. End/Recommendations - consider diving deeper into recommendations and next steps. The model was proven effective, so what will you do with the information? Or where would you recommend a future team pick up and progress the analysis to address climate change and its impact?",1
+9,7,Group 7 - Factors_Affecting_Students_Academic_Performance,"It sounded like the dataset was limited, but some interesting discoveries were uncovered. Something as simple as a good meal during testing has such a big impact on performance/evaluation, I simply wasnÕt aware!
+
+Not much advanced modeling, but frankly I think the data was simplistic enough to simply evaluate and share findings.",1
+10,8,Group 8 - Identifying_High_Performance_Riders,"I found it very engaging and interesting through and through.
+The work to clean up that kind of data is heavy, trust me I live it. So coming out with workable data for analysis is a job well done. Very interesting and some even seemingly contradictory discoveries in the data which is what can be so great about exploring data with limited preconceptions (if the data is right and the process is right, the discoveries should be considered as plausibly true).
+
+Very fun, well done",2
+11,8,Group 8 - Identifying_High_Performance_Riders,Introduction of the research questions and their business value was extremely clear. Clear introduction of the data source. Presenters effectively spoke to the topic in a way that engaged the audience/introduced concepts for an audience without prior knowledge of the research. Good job! Tie your recommendations back to your data and what in your findings or understanding of the industry led you to offer these recommendations. Revisit your research questions at the end and state if you addressed them or what would be the next steps to investigate further. That ratings are higher Monday to Wednesday Ð does anything in the data or your knowledge of the industry lead you to know why this is true?,3
+12,9,Group 9 - Analysis_of_Vehicle_Emissions,"I enjoyed the visualizations, the content and intent of the presentation, it just felt a bit overly simplistic from the onset. The premise was / hey less vehicle emissions, conclision electric vehicles is a bit too simple of a line to draw (wouldnÕt need much study to come to these conclusions).
+
+It maybe could have been more interesting to come up with models for how to explore the problem in more novel ways, like specifically targeting a handful of vehicles or fuels for rapid reduction or replacement Ñ more thought needed of course but thatÕs what we want from the data scientists - novel ways of finding better opportunities by studying data.",4
+13,8,Group 8 - Identifying_High_Performance_Riders,"I strongly commend the team for their clear and very well structured presentation. Each team member had a chance to present which is critical. 
+
+The riders are now a critical part of our economy and service delivery. Very practical recommendations have been made. I suggest the following points be included for the future. 
+
+- The question of safety was not raised. The risks that the industry faces are major for the safety of drivers and other road users. Record of safety can be included when thinking of high performance.
+
+- The insights about the ratings decreasing as the days of the week progress is very valuable. How would the companies like Sendy innovate around this? This insight can be further examined and provide ideas like, at the weekend which is peak, should there be route optimization for the riders? Should some riders be assigned to particular routes, is the feedback worse in particular geographical areas etc?
+
+- In addition to rewards, the training of the riders/sensitization to customer feedback should be considered. 
+
+A truly outstanding piece.",4
+14,6,Group 6 - Predicting_Diabetes_in_Pregnant_Women,"The topic chosen is a critical one in our country at the moment. The rise in Non Communicable Diseases is definitely alarming. 
+
+The presentation made clear the serious issue that we are dealing with. However, it should have been structured much more clearly. The slide on Scope was difficult to follow as it had alot of information. 
+
+In terms of context, diabetes cases are doubling in Kenya annually. This is alarming for any health economist. This would have been a point to truly emphasis.
+
+The model does predict the probability of diabetes. The recommendations, conclusions should have been more robust. 
+
+- Preventative measures, should these be emphasized as part of health policy?
+- Are some ages more at risk ?
+
+",3
+15,13,Group 13 - Detecting_Counterfeit_Bank_Transactions,Generally a good presentation. What stood out for me was that they were able to rank and isolate the top 4 features out of 12 features that would be correlated to detect an incidence of fraud with a very high degree of probability. The objective was well achieved and this a solution that can now be coded and integrated onto a Bank platform to practically detect suspicious/fraudulent credit card transactions.,2
